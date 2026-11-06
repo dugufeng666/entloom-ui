@@ -1,4 +1,10 @@
-# Entloom UI
+# Entloom UI (Moved)
+
+> Development has moved to the public Entloom monorepo: <https://github.com/dugufeng666/entloom>.
+>
+> The current UI source is under [`ui/`](https://github.com/dugufeng666/entloom/tree/main/ui). This repository is kept as a migration marker and historical reference.
+
+<!--
 
 The open-source Vue frontend for **Entloom**, an enterprise ontology and agent platform.
 
@@ -57,3 +63,4 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening an issue or pull request.
 ## License
 
 Entloom UI is licensed under the [Apache License 2.0](LICENSE). The license covers source code. Brand assets, private learning materials, paid IMA content and customer data are not part of this repository.
+-->
