@@ -1,0 +1,7 @@
+services:
+  ui:
+    build: .
+    ports:
+      - "4173:80"
+    environment:
+      ENTLOOM_API_BASE_URL: ${ENTLOOM_API_BASE_URL:-http://localhost:8080}
